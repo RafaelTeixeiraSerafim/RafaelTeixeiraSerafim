@@ -4,6 +4,9 @@
 - Atualmente desenvolvendo o TCC do curso
 - Futuro aluno de Engenharia de Software na Unisatc
 
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelTeixeiraSerafim&show_icons=true&theme=tokyonight)](https://github.com/RafaelTeixeiraSerafim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTeixeiraSerafim&theme=tokyonight&layout=compact)](https://github.com/RafaelTeixeiraSerafim/github-readme-stats)
+
 ### Ferramentas e Tecnologias
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50"/>
