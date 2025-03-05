@@ -5,7 +5,7 @@
 - Futuro aluno de Engenharia de Software na Unisatc
 
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelTeixeiraSerafim&show_icons=true&theme=tokyonight&exclude_repo=tcc-info-backup)](https://github.com/RafaelTeixeiraSerafim/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTeixeiraSerafim&theme=tokyonight&layout=compact)](https://github.com/RafaelTeixeiraSerafim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTeixeiraSerafim&theme=tokyonight&layout=compact&hide=HLSL,ShaderLab)](https://github.com/RafaelTeixeiraSerafim/github-readme-stats)
 
 ### Ferramentas e Tecnologias
 <div>
